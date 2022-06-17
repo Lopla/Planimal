@@ -22,8 +22,7 @@ namespace Planimal
 
         public void Init(IEngine engine)
         {
-
-            //engine.RequestTransparentWindow();
+            
         }
 
         public void KeyDown(uint key)
